@@ -2,3 +2,4 @@
 *  aglio
 *  olio 
 *  peperoncino
+* sale
